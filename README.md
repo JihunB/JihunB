@@ -44,7 +44,9 @@
   <img src="https://img.shields.io/badge/Google-Cybersecurity%20Professional%20Certificate-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Cybersecurity"/>
 </p>
 
-Security training: Elite White Hacker Bootcamp (Top 7) · KISA AI Security Monitoring Specialist · K-Shield Jr.
+Security training: KnockOn Elite White Hacker Bootcamp (3rd batch, **Top 7**) · KISA AI Security Monitoring Specialist Training Program (3rd batch) · K-Shield Jr. Start-Up
+
+Next up: CompTIA Security+ · CCNA · an Azure certification
 
 ---
 
@@ -53,7 +55,9 @@ Security training: Elite White Hacker Bootcamp (Top 7) · KISA AI Security Monit
 **Security** &nbsp;
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Microsoft Defender](https://img.shields.io/badge/Microsoft%20Defender-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Intune](https://img.shields.io/badge/Intune-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Entra ID](https://img.shields.io/badge/Entra%20ID-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-000000?style=flat-square&logo=owasp&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 
